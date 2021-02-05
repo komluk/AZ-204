@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "trigger-workitems/{name}",
+      "connection": "komluk0az200storage_STORAGE"
+    }
+  ]
+}
