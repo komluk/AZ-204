@@ -21,25 +21,33 @@ You have hired a small team of developers to do the work and you prefer a design
 
 # Check your Knowledge
 1. In the television advert company, which technology would you use for the advert review process?
-    * Microsoft Power Automate
-    * Azure Logic Apps
-    * Azure Functions
-    * Azure App Service WebJobs
+    * Microsoft Power Automate - True
+    * Azure Logic Apps - False
+    * Azure Functions - False
+    * Azure App Service WebJobs False
+
+True - Azure WebJobs, Functions and Logic Apps don't permit the creative team, who are not developers, to manage the process. Instead use Microsoft Power Automate.
 
 2. In the television advert company, which technology would you use for the feedback collection process?
-    * Microsoft Power Automate
-    * Azure Logic Apps
-    * Azure Functions
-    * Azure App Service WebJobs
+    * Microsoft Power Automate False
+    * Azure Logic Apps False
+    * Azure Functions False
+    * Azure App Service WebJobs True
+
+True - WebJobs are the only technology that permits developers to control retry policies.
 
 3. In the merged camera company, which technology would you use for the lens quality control procedure?
-    * Microsoft Power Automate
-    * Azure Logic Apps
-    * Azure Functions
-    * Azure App Service WebJobs
+    * Microsoft Power Automate False
+    * Azure Logic Apps True
+    * Azure Functions False
+    * Azure App Service WebJobs False
+
+True - Azure Logic Apps is the only one of the four technologies that provides a design-first approach intended for developers.
 
 4. In the merged camera company, which technology would you use for the ordering and dispatch procedure?
-    * Microsoft Power Automate
-    * Azure Logic Apps
-    * Azure Functions
-    * Azure App Service WebJobs
+    * Microsoft Power Automate False
+    * Azure Logic Apps True
+    * Azure Functions False
+    * Azure App Service WebJobs False
+
+True - Azure Logic Apps is the only one of the four technologies that provides a design-first approach intended for developers.
