@@ -18,7 +18,6 @@ Although this is not intended to be an exhaustive list, the following are some r
 Answer: Bindings provide a declarative way to connect to data. They let you avoid the complexity of coding connection logic like making a database connection or invoking web API interfaces.
 
 2. What is the name of the file that contains function configuration data?
-
     - [ ] config.txt
     - [ ] config.json
     - [x] function.json
@@ -26,7 +25,6 @@ Answer: Bindings provide a declarative way to connect to data. They let you avoi
 Answer: The configuration is named function.json, which contains JSON configuration data such as binding declarations.
 
 3. How many triggers must a function have?
-
     - [ ] Zero
     - [x] One
     - [ ] Two
